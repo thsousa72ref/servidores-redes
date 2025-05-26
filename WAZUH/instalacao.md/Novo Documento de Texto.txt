@@ -1,0 +1,14 @@
+# Instalação do Wazuh (Servidor)
+
+## Requisitos
+- Debian 12 ou Ubuntu Server 22.04 (limpo)
+- 4 GB de RAM (mínimo)
+- 20 GB de disco
+- Acesso à internet
+- Permissões de root
+
+## Passo a Passo
+1. Instale o sistema operacional base (Debian/Ubuntu)
+2. Atualize os pacotes:
+   ```bash
+   sudo apt update && sudo apt upgrade -y

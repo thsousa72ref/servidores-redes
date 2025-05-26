@@ -1,0 +1,20 @@
+# Instalação do Debian 12
+
+## Requisitos
+- ISO do Debian 12 (netinst ou completa)
+- VirtualBox ou VMware
+- 2 GB de RAM
+- 20 GB de disco
+
+## Passo a Passo
+1. Abra o VirtualBox e clique em "Novo"
+2. Nomeie a VM como "Debian 12" e selecione "Linux" > "Debian (64-bit)"
+3. Alocar 2048 MB de RAM
+4. Criar um disco virtual de 20 GB
+5. Montar a ISO do Debian como mídia de inicialização
+6. Iniciar a VM e seguir o instalador padrão
+7. Escolha idioma, localização e layout do teclado
+8. Configure o hostname e o usuário root
+9. Selecione o particionamento automático (guiado)
+10. Instale o sistema base e o ambiente de desktop (opcional)
+11. Após a instalação, reinicie e faça o login
